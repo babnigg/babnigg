@@ -1,7 +1,9 @@
-![my banner](https://github.com/babnigg/babnigg/blob/f6c11893589551a2960c6b0e8d3546557d5d8c24/1A9EC4B0-BBC5-4E2A-8A79-2BA094C70DE1.jpg)
+<!-- ![my banner](https://github.com/babnigg/babnigg/blob/f6c11893589551a2960c6b0e8d3546557d5d8c24/1A9EC4B0-BBC5-4E2A-8A79-2BA094C70DE1.jpg) -->
 
-![dolphin](https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif)
-
+<p align="center">
+  <img src="https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif" height="200" /> aspiring astrophysicist <img src="https://github.com/babnigg/babnigg/blob/923c2079434f7ac00a2762d0cd674db987138f1e/dancing-cow.gif" height="200" />
+</p>
+  
 <!--
 **babnigg/babnigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
