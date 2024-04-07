@@ -7,7 +7,7 @@
 </p>
 
 # pet fish: cherry 
-(nickname = Schwarzwälder Kirschtorte) 
+(full legal name = Schwarzwälder Kirschtorte) 
 <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/CBE0D623-5F43-41D0-9FD1-2443F9068219.jpg" height="200" />
 
 favorite crochet projects:   
