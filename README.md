@@ -2,6 +2,8 @@
 
 ### aspiring astrophysicist
 
+### ![cv](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf)
+
 <p align="center">
   <img src="https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif" height="200" /><img src="https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif" height="200" /><img src="https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif" height="200" />
 </p>
