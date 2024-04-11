@@ -29,7 +29,7 @@ polite dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687
 fat dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/9791696E-1CF7-4494-A1C8-955E9F817653.jpg" height="200" />
 weird dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/4B3F5EB9-4823-4055-98DA-4CC994D7ADDA.jpg" height="200" />
 
-<img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/81CCB0B6-4EC0-4580-959C-4320E9813ABE.jpg" height="200" />
+<img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/81CCB0B6-4EC0-4580-959C-4320E9813ABE.jpg" height="600" />
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
