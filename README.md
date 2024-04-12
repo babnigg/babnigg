@@ -1,6 +1,6 @@
 ![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/a9b15b8aade56d0f32f7b30c28bfe7563435dc6a/pixil-frame-0.png)
 
-### aspiring astrophysicist
+### aspiring astrophysicist 🌃🔭🪐
 
 ### ![cv](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf)
 
