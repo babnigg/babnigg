@@ -50,3 +50,5 @@ weird dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/a9b15b8aade56d0f32f7b30c28bfe7563435dc6a/pixil-frame-0.png)
