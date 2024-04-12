@@ -1,4 +1,4 @@
-![my banner](https://github.com/babnigg/babnigg/blob/f6c11893589551a2960c6b0e8d3546557d5d8c24/1A9EC4B0-BBC5-4E2A-8A79-2BA094C70DE1.jpg)
+![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/a9b15b8aade56d0f32f7b30c28bfe7563435dc6a/pixil-frame-0.png)
 
 ### aspiring astrophysicist
 
