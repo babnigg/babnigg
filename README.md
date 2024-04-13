@@ -3,7 +3,7 @@
 
 <h2 align="center"> 
   
-  🔭 ASPIRING ASTROPHYSICIST 🌃 [CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌑 [UCHICAGO](https://astrophysics.uchicago.edu/) 🌠 THIRD-YEAR UNDERGRAD 🛰️
+  🔭 ASPIRING ASTROPHYSICIST 🌃 [CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌑 [UCHICAGO](https://astrophysics.uchicago.edu/) 🌠 UNDERGRAD 🛰️
 
 </h2>
 
