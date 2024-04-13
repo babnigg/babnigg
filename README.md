@@ -3,18 +3,18 @@
 
 <h2 align="center"> 
   
-  🔭 Aspiring Astrophysicist 🌃 [CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌑 [UChicago](https://astrophysics.uchicago.edu/) 🌠 Third-Year Undergraduate 🛰️
+  🔭 ASPIRING ASTROPHYSCISIST 🌃 [CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌑 [UCHICAGO](https://astrophysics.uchicago.edu/) 🌠 UNDERGRADUATE 🛰️
 
 </h2>
 
-<h3>connect with me</h3>
+<h3>Connect with me!</h3>
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black&labelColor=gray&color=gray)](mailto:babnigg@uchicago.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&labelColor=gray&color=gray)](https://github.com/babnigg/)
 
 
 
-<h3>technology and techniques</h3>
+<h3>Technology and Techniques</h3>
   
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black&labelColor=lightgray&color=lightgray)](https://www.python.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=black&labelColor=lightgray&color=lightgray)](https://scipy.org/)
