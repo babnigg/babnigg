@@ -1,6 +1,6 @@
 <p align="center">
 
-  ![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/a9b15b8aade56d0f32f7b30c28bfe7563435dc6a/pixil-frame-0.png)
+  ![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png)
 
 </p>
 
@@ -40,6 +40,6 @@
 
 <p align="center">
 
-![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/a9b15b8aade56d0f32f7b30c28bfe7563435dc6a/pixil-frame-0.png)
+![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png)
 
 </p>
