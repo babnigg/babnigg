@@ -1,9 +1,9 @@
 ![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png) 
 
 
-<h2> 
+<h2 align="center"> 
   
-  🔭 Aspiring Astrophysicist 🌃 ![CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌠
+  🔭 Aspiring Astrophysicist 🌃 [CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌑 [UChicago](https://astrophysics.uchicago.edu/) 🌠 Third-Year Undergraduate 🛰️
 
 </h2>
 
