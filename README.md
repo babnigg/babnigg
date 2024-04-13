@@ -1,11 +1,11 @@
 ![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png) 
 
 
-<h3> 
+<h2> 
   
   🔭 Aspiring Astrophysicist 🌃 ![CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌠
 
-</h3>
+</h2>
 
 <h3>connect with me</h3>
 
