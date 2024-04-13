@@ -4,33 +4,6 @@
 
 ### ![cv](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf)
 
-<p align="center">
-  <img src="https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif" height="200" /><img src="https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif" height="200" /><img src="https://github.com/babnigg/babnigg/blob/c375d30f6aa5f1fa1aaafa70433024636259ec39/picmix.com_2429331.gif" height="200" />
-</p>
-
-# pet fish: cherry 
-(full legal name = Schwarzwälder Kirschtorte) 
-<img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/CBE0D623-5F43-41D0-9FD1-2443F9068219.jpg" height="200" />
-
-favorite crochet projects:   
-<img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/3E02185C-D0BF-4484-894B-F0B4E7A97BE7.jpg" height="200" /><img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/59CA6218-1113-450A-8929-64D9CD54108F.jpg" height="200" /><img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/ED424796-B09F-4F25-9455-FB176A626887.jpg" height="200" />
-
-least favorite crochet project:  
-<img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/2703DA24-34E1-4200-8A73-C84061878EA4.jpg" height="200" />
-
-## ‼️BELUGA JUMPSCARE‼️
-<img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/39F47313-C43D-4D20-8E7F-0F2CC1AC0E3B.jpg" height="200" />
-
-**cousin's dogs**
-
-mean dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/3D615A11-FC3B-4678-8182-10F85CB03A4C.jpg" height="200" />
-polite dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/79124BE5-0DDC-4010-9DCD-7D0CB8041B1D.jpg" height="200" />
-
-fat dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/9791696E-1CF7-4494-A1C8-955E9F817653.jpg" height="200" />
-weird dog <img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/4B3F5EB9-4823-4055-98DA-4CC994D7ADDA.jpg" height="200" />
-
-<img src="https://github.com/babnigg/babnigg/blob/c5d9479e52e2e3d1687e594aea494957c9176e51/81CCB0B6-4EC0-4580-959C-4320E9813ABE.jpg" height="600" />
-
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
