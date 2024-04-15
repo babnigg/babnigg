@@ -1,12 +1,13 @@
 [![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png)](https://damskosrce.com/izrada_cilima.html)
 
 
+<!--
 <h2 align="center"> 
   
   🔭 ASPIRING ASTROPHYSICIST 🌃 [CV](https://github.com/babnigg/babnigg/blob/4d7b976b15d0141a042c2b3ca36046aa21e806b7/CV.pdf) 🌑 [UCHICAGO](https://astrophysics.uchicago.edu/) 🌠 UNDERGRAD 🛰️
 
 </h2>
-
+-->
 
 
 <h3>Highlighted Repositories</h3>
