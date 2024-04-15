@@ -1,4 +1,4 @@
-![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png) 
+[![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png)](https://damskosrce.com/izrada_cilima.html)
 
 
 <h2 align="center"> 
@@ -30,4 +30,4 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black&labelColor=lightgray&color=lightgray)](https://ubuntu.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=lightgray&color=lightgray)](https://www.linux.org/)
 
-![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png)
+[![my banner: pirotski ćilim](https://github.com/babnigg/babnigg/blob/f1a3165571f8bcb4f0126f049bba0452a816cd2c/pirotski_cilim.png)](https://damskosrce.com/izrada_cilima.html)
