@@ -7,6 +7,17 @@
 
 </h2>
 
+
+
+<h3>Highlighted Repositories</h3>
+
+[![UChicago](https://img.shields.io/badge/UChicago-0078D4?style=for-the-badge&logo=data&logoColor=black&labelColor=gainsboro&color=gainsboro)](https://github.com/babnigg/UCHI_PROJECTS)
+[![Glass Plates](https://img.shields.io/badge/Glass%20Plates-0078D4?style=for-the-badge&logo=data&logoColor=black&labelColor=gainsboro&color=gainsboro)](https://github.com/babnigg/GLASS_PLATES)
+[![Galfit](https://img.shields.io/badge/Galfit%20Wrapper-0078D4?style=for-the-badge&logo=data&logoColor=black&labelColor=gainsboro&color=gainsboro)](https://github.com/paxsonswierc/galfit_wrapper)
+
+
+
+
 <h3>Connect with me!</h3>
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black&labelColor=gray&color=gray)](mailto:babnigg@uchicago.edu)
