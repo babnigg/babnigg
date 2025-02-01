@@ -10,7 +10,7 @@
 -->
 
 
-<h3>Highlighted Repositories</h3>
+<h3>highlighted repositories</h3>
 
 [![UChicago](https://img.shields.io/badge/UChicago-0078D4?style=for-the-badge&logo=data&logoColor=black&labelColor=gainsboro&color=gainsboro)](https://github.com/babnigg/UCHI_PROJECTS)
 [![Glass Plates](https://img.shields.io/badge/Glass%20Plates-0078D4?style=for-the-badge&logo=data&logoColor=black&labelColor=gainsboro&color=gainsboro)](https://github.com/babnigg/GLASS_PLATES)
@@ -19,14 +19,14 @@
 
 
 
-<h3>Connect with me!</h3>
+<h3>connect with me!</h3>
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black&labelColor=gray&color=gray)](mailto:babnigg@uchicago.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&labelColor=gray&color=gray)](https://github.com/babnigg/)
 
 
 
-<h3>Technology and Techniques</h3>
+<h3>technology & techniques</h3>
   
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black&labelColor=lightgray&color=lightgray)](https://www.python.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=black&labelColor=lightgray&color=lightgray)](https://scipy.org/)
