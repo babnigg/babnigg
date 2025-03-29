@@ -20,9 +20,9 @@
 
 <h3>connect with me!</h3>
 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black&labelColor=gray&color=gray)](mailto:babnigg@uchicago.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&labelColor=gray&color=gray)](https://github.com/babnigg/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=black&labelColor=gray&color=gray)](https://www.linkedin.com/in/daniel-babnigg/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logoColor=black&labelColor=gray&color=gray)](mailto:babnigg@uchicago.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logoColor=black&labelColor=gray&color=gray)](https://github.com/babnigg/)
 
 
 
